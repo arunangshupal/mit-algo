@@ -1,7 +1,7 @@
 # mit-algo
 Implementation of problem discussed on Mit Algo lectures in Java
 
-##Prerequisite
+## Prerequisite
 To run this code please install lombok in your IDE.
 Please refer to https://projectlombok.org/setup/overview
 
